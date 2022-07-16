@@ -1,0 +1,7 @@
+#ifndef _PERFECT
+#define _PERFECT
+
+int NumPer(int d);
+
+#include  ″perfect.c″
+#endif
